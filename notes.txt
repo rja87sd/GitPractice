@@ -1,0 +1,8 @@
+# 11-15 Assignment
+
+- Notes -
+
+Discussed creating, editing, and moving files in the terminal.
+Discussed and practiced creating, cloning repositories locally and on GitHub.
+Discussed pushing and pulling to and from GitHub repositories.
+Discussed and practiced resolving merge conflicts.
